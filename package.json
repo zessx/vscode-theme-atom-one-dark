@@ -3,7 +3,7 @@
   "name": "theme-atom-one-dark",
   "displayName": "Atom One Dark Theme",
   "description": "Atom One Dark theme for Visual Studio Code",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "publisher": "freebroccolo",
   "license": "Apache-2.0",
   "bugs": {
